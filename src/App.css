@@ -1,0 +1,123 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+  box-sizing: border-box;
+  line-height: 16px;
+}
+
+html,body {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #111;
+  color: #fff;
+}
+
+.App {
+  padding: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+
+tr:nth-child(even)  {
+  /* background-color: red; */
+}
+
+td,tr,th {
+  margin: 0px;
+  padding: 0px;
+}
+
+th,.label {
+  padding: 16px;
+  color: white;
+}
+
+.label {
+  height: 96px;
+}
+
+.lunch {
+  height: 64px;
+  padding: 16px;
+}
+
+.lecture {
+  position: relative;
+  background-color: black;
+  color: white;
+  padding: 12px;
+}
+
+.lecture-name {
+  line-height: 16px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.lecture-lecturer {
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.lecture-location {
+  line-height: 16px;
+  font-size: 12px;
+}
+
+.lecture-border {
+  position: absolute;
+  top: 2px;
+  bottom: 2px;
+  left: 2px;
+  right: 2px;
+  border: 1px solid white;
+}
+
+nav {
+  display: flex;
+}
+.navbar-item {
+  margin-right: 4px;
+  border: 1px #aaa solid;
+  padding: 8px;
+  color: #aaa;
+  text-decoration: none;
+}
+
+.navbar-separator {
+  flex: 1;
+}
+
+.navbar-item:focus {
+  outline-width: 0;
+  text-decoration: underline;
+}
+
+.navbar-item:hover {
+
+  border: 1px #fff solid;
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+.navbar-item.active {
+
+  border: 1px #fff solid;
+  color: #fff;
+}
+
+.soon {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 384px;
+  line-height: 400px;
+}

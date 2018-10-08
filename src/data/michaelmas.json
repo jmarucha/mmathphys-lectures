@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Advanced Philosophy of Physics",
+    "lecturer": "Dr Adam Caulton",
+    "lectures": [
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Faculty of Philosophy, Ryle Room"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Quantum Theory",
+    "lecturer": "Dr Sid Parameswaran",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 7,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Dennis Sciama"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 6,
+        "weekEnd": 6,
+        "hourStart": 14,
+        "hourEnd": 15,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 5,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Dennis Sciama"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 5,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Dennis Sciama"
+      }
+    ]
+  },
+  {
+    "name": "Algebraic Geometry",
+    "lecturer": "Prof. Alexander Ritter",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 15,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L3"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 4,
+        "weekEnd": 8,
+        "hourStart": 15,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L3"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 4,
+        "weekEnd": 8,
+        "hourStart": 16,
+        "hourEnd": 17,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 16,
+        "hourEnd": 17,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 1,
+        "hourStart": 17,
+        "hourEnd": 18,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 17,
+        "hourEnd": 18,
+        "location": "Mathematical Institute, L4"
+      }
+    ]
+  },
+  {
+    "name": "Algebraic Topology",
+    "lecturer": "Prof. Christopher Douglas",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L4"
+      }
+    ]
+  },
+  {
+    "name": "Differentiable Geometry (Manifolds)",
+    "lecturer": "Prof. Dominic Joyce",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L5"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, C1"
+      }
+    ]
+  },
+  {
+    "name": "General Relativity I",
+    "lecturer": "Dr Anthony Ashmore",
+    "lectures": [
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 17,
+        "hourEnd": 18,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 15,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L6"
+      }
+    ]
+  },
+  {
+    "name": "Groups and Representations",
+    "lecturer": "Prof. Andre Lucas",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 1,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 2,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 7,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, L5"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 8,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Dept of Physics, Lindemann"
+      }
+    ]
+  },
+  {
+    "name": "Kinetic Theory",
+    "lecturer": "P. Dellar, A. Schekochihin, J. Binney",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 16,
+        "hourEnd": 18,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 8,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Dept of Physics, Lindemann"
+      }
+    ]
+  },
+  {
+    "name": "Numerical Linear Algebra",
+    "lecturer": "Prof. Andy Wathen",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 16,
+        "hourEnd": 17,
+        "location": "Mathematical Institute, L3"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 17,
+        "hourEnd": 18,
+        "location": "Mathematical Institute, L2"
+      }
+    ]
+  },
+  {
+    "name": "Perturbation Methods",
+    "lecturer": "Prof. Eamonn Gaffney",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 15,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L1"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 15,
+        "location": "Mathematical Institute, L2"
+      }
+    ]
+  },
+  {
+    "name": "Quantum Field Theory",
+    "lecturer": "Prof. Paul Fendley",
+    "lectures": [
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 11,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Quantum Process in Hot Plasma",
+    "lecturer": "P. Norreys and S. Rose",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 3,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Seminar Room 501"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 8,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Seminar Room 501"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 3,
+        "weekEnd": 3,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Seminar Room 501"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 5,
+        "weekEnd": 5,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Seminar Room 501"
+      }
+    ]
+  },
+  {
+    "name": "Radiative Processes and H. E. Astrophysics",
+    "lecturer": "Prof. Garret Cotter",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Dennis Sciama"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Dennis Sciama"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Dennis Sciama"
+      }
+    ]
+  },
+  {
+    "name": "Topological Quantum Theory",
+    "lecturer": "Prof. Steve Simon",
+    "lectures": [
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "name": "mmathphys-lectures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start",
+    "lint": "neutrino lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarucha/mmathphys-lectures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarucha/mmathphys-lectures/issues"
+  },
+  "homepage": "https://github.com/jmarucha/mmathphys-lectures#readme",
+  "dependencies": {
+    "history": "^4.7.2",
+    "preact": "^8.3.1",
+    "preact-compat": "^3.18.4",
+    "preact-router": "^2.6.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@neutrinojs/airbnb": "^8.3.0",
+    "@neutrinojs/preact": "^8.3.0",
+    "neutrino": "^8.3.0"
+  }
+}
