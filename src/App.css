@@ -23,10 +23,6 @@ table {
   border-spacing: 0px;
 }
 
-tr:nth-child(even)  {
-  /* background-color: red; */
-}
-
 td,tr,th {
   margin: 0px;
   padding: 0px;
