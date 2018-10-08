@@ -19,13 +19,35 @@ body {
 }
 
 table {
-  border-collapse: collapse;
+  margin-top: 8px;
   border-spacing: 0px;
 }
 
 td,tr,th {
   margin: 0px;
   padding: 0px;
+}
+
+th {
+  border-left: 1px #aaa solid;
+  border-right: 1px #aaa solid;
+}
+
+th:first-child {
+  border-left: 0;
+}
+
+
+th:last-child {
+  border-right: 2px #aaa solid;
+}
+
+th:nth-child(odd) {
+  border-bottom: 2px #aaa solid;
+}
+
+th:nth-child(even) {
+  border-top: 2px #aaa solid;
 }
 
 th,.label {
@@ -104,7 +126,6 @@ nav {
 
 
 .navbar-item.active {
-
   border: 1px #fff solid;
   color: #fff;
 }

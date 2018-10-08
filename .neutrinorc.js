@@ -5,7 +5,7 @@ module.exports = {
       '@neutrinojs/preact',
       {
         html: {
-          title: 'mmathphys-lectures'
+          title: 'MMathPhys Lectures'
         }
       }
     ]

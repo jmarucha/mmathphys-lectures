@@ -1,5 +1,4 @@
 import { render } from 'preact'; // eslint-disable-line import/extensions
-import 'preact/debug';
 
 let mount;
 const root = document.getElementById('root');
