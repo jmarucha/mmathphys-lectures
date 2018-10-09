@@ -1,4 +1,3 @@
-import Redirect from './redirect';
 import Lecture from './lecture';
 import Weeks from './weeks';
 import renderDayPlan from '../util/renderDayPlan';
@@ -64,7 +63,7 @@ const tableBody = (days) => {
         {`${hour}:00 - ${hour + 1}:00`}
       </td>
       {
-        grid.map(subgrid => subgrid[hour - hourStart].flat())
+        grid.map(subgrid => subgrid[hour - hourStart].reduce((acc, val) => acc.concat(val), [])) // flatten
       }
     </tr>
   ));

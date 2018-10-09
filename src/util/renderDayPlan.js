@@ -7,7 +7,9 @@ export default function renderDayPlan(day, week, data) {
       name: lectureSerie.name,
       lecturer: lectureSerie.lecturer,
       ...subserie,
-    }))).flat().sort((a, b) => a.hourStart - b.hourStart);
+    })))
+    .reduce((acc, val) => acc.concat(val), []) // flatten
+    .sort((a, b) => a.hourStart - b.hourStart);
   lectures.columns = 0;
   lectures.forEach((lecture) => {
     for (let column = 0; ; column += 1) {
