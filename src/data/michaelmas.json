@@ -184,14 +184,6 @@
         "location": "Mathematical Institute, L4"
       },
       {
-        "dayOfWeek": 1,
-        "weekStart": 2,
-        "weekEnd": 8,
-        "hourStart": 9,
-        "hourEnd": 10,
-        "location": "Dept of Physics, Lindemann"
-      },
-      {
         "dayOfWeek": 2,
         "weekStart": 1,
         "weekEnd": 7,
@@ -206,6 +198,30 @@
         "hourStart": 9,
         "hourEnd": 11,
         "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 2,
+        "weekEnd": 2,
+        "hourStart": 14,
+        "hourEnd": 15,
+        "location": "Mathematical Institute, L2"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 3,
+        "weekEnd": 3,
+        "hourStart": 14,
+        "hourEnd": 15,
+        "location": "Mathematical Institute, L5"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 4,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 15,
+        "location": "Mathematical Institute, L2"
       }
     ]
   },
@@ -366,6 +382,14 @@
       {
         "dayOfWeek": 1,
         "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Dennis Sciama"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 6,
         "weekEnd": 8,
         "hourStart": 12,
         "hourEnd": 13,
@@ -382,7 +406,15 @@
       {
         "dayOfWeek": 5,
         "weekStart": 1,
-        "weekEnd": 8,
+        "weekEnd": 2,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Dennis Sciama"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 4,
+        "weekEnd": 7,
         "hourStart": 12,
         "hourEnd": 13,
         "location": "Dept of Physics, Dennis Sciama"
