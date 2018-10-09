@@ -12,11 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/jmarucha/mmathphys-lectures.git"
   },
-  "browserslist": [
-    "last 2 version",
-    "> 0.5%",
-    "not dead"
-  ],
+  "browserslist": ["> 1%"],
   "keywords": [],
   "author": "",
   "license": "ISC",
