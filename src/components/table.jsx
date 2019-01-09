@@ -4,9 +4,11 @@ import renderDayPlan from '../util/renderDayPlan';
 import range from '../util/range';
 import currentWeek from '../util/currentWeek';
 import michaelmasData from '../data/michaelmas.json';
+import hilaryData from '../data/hilary.json';
 
 const termData = {
   michaelmas: michaelmasData,
+  hilary: hilaryData,
 };
 
 const daysOfWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];

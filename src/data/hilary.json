@@ -1,0 +1,538 @@
+[
+  {
+    "name": "Advanced Fluid Dynamics",
+    "lecturer": "A. Schekochihin, P. Dellar",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 11,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 4,
+        "hourEnd": 5,
+        "location": "Dept of Physics, Lindemann"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Philosophy of Physics",
+    "lecturer": "S. Saunders",
+    "lectures": [
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Merton College, Fitzjames 1"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Quantum Field Theory",
+    "lecturer": "L. Harland-Lang",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Seminar Room 501"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Applied Complex Variables",
+    "lecturer": "J. Chapman",
+    "lectures": [
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, L3"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Mathematical Institute, L4"
+      }
+    ]
+  },
+  {
+    "name": "Astroparticle Physics",
+    "lecturer": "S. Sarkar",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 5,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 5,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Collisionless Plasma Physics",
+    "lecturer": "F. Parra-Diaz",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 16,
+        "hourEnd": 17,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Cosmology",
+    "lecturer": "P. Ferreira, E. Bellini and E. Chisari",
+    "lectures": [
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Disc Accretion in Astrophysics",
+    "lecturer": "P. Podsiadlowski",
+    "lectures": [
+      {
+        "dayOfWeek": 4,
+        "weekStart": 7,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Dept of Physics, Seminar Room 501"
+      }
+    ]
+  },
+  {
+    "name": "Galactic and Planetary Dynamics",
+    "lecturer": "J. Magorrian",
+    "lectures": [
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Dept of Physics, Seminar Room 501"
+      }
+    ]
+  },
+  {
+    "name": "General Relativity II",
+    "lecturer": "X. de la Ossa",
+    "lectures": [
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 4,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 13,
+        "hourEnd": 14,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 10,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 4,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, L4"
+      }
+    ]
+  },
+  {
+    "name": "Geometric Group Theory",
+    "lecturer": "P. Papazoglou",
+    "lectures": [
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L2"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L6"
+      }
+    ]
+  },
+  {
+    "name": "High Energy Density Physics",
+    "lecturer": "P. Norreys",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Department of Physics, Mendelssohn Room"
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Quantum Information",
+    "lecturer": "A. Ekert",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L3"
+      }
+    ]
+  },
+  {
+    "name": "Networks",
+    "lecturer": "R. Lambiotte",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 6,
+        "hourStart": 12,
+        "hourEnd": 14,
+        "location": "Mathematical Institute, L5"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 8,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 14,
+        "location": "Mathematical Institute, L5"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 7,
+        "weekEnd": 7,
+        "hourStart": 13,
+        "hourEnd": 15,
+        "location": "Mathematical Institute, L1"
+      }
+    ]
+  },
+  {
+    "name": "Nonequilibrium Statistical Physics",
+    "lecturer": "R. Golestanian",
+    "lectures": [
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 1,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 3,
+        "weekEnd": 3,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 1,
+        "hourStart": 16,
+        "hourEnd": 17,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 3,
+        "weekEnd": 3,
+        "hourStart": 4,
+        "hourEnd": 5,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 1,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 3,
+        "weekEnd": 3,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 1,
+        "hourStart": 13,
+        "hourEnd": 14,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 3,
+        "weekEnd": 3,
+        "hourStart": 13,
+        "hourEnd": 14,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 2,
+        "weekEnd": 2,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 2,
+        "weekEnd": 2,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 1,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 2,
+        "weekEnd": 2,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Dept of Physics, Lindemann"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 2,
+        "weekEnd": 2,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Renormalisation Group",
+    "lecturer": "Adam Nahum",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Soft Matter Physics",
+    "lecturer": "J. Yeomans, A. Louis",
+    "lectures": [
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 6,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 7,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Seminar Room 501"
+      }
+    ]
+  },
+  {
+    "name": "String Theory I",
+    "lecturer": "C. Beem",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 12,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 10,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, L6"
+      }
+    ]
+  },
+  {
+    "name": "Supersymmetry and Supergravity",
+    "lecturer": "C. Clossett",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 9,
+        "hourEnd": 10,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 12,
+        "location": "Mathematical Institute, L6"
+      }
+    ]
+  },
+  {
+    "name": "Symbolic Programming",
+    "lecturer": "P. Candelas",
+    "lectures": [
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 5,
+        "hourStart": 16,
+        "hourEnd": 18,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 6,
+        "weekEnd": 7,
+        "hourStart": 16,
+        "hourEnd": 18,
+        "location": "Mathematical Institute, L1"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 8,
+        "weekEnd": 8,
+        "hourStart": 16,
+        "hourEnd": 18,
+        "location": "Mathematical Institute, L6"
+      }
+    ]
+  }
+]
