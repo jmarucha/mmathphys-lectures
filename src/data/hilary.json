@@ -252,7 +252,7 @@
     "lecturer": "A. Ekert",
     "lectures": [
       {
-        "dayOfWeek": 2,
+        "dayOfWeek": 3,
         "weekStart": 1,
         "weekEnd": 8,
         "hourStart": 14,
