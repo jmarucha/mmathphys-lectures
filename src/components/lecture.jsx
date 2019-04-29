@@ -1,10 +1,15 @@
 import colorFromString from '../util/colorFromString';
 
-const Lecture = ({ content }) => (
-  <div
+const Lecture = ({ content }) => {
+  let height = content.hourEnd - content.hourStart;
+  let offsetTop = content.hourStart % 1;
+  let offsetBottom = Math.ceil(content.hourEnd) - content.hourEnd;
+  return (<div
     className="lecture"
     style={{
-      height: `${96 * (content.hourEnd - content.hourStart)}px`,
+      marginTop: `${96 * offsetTop}px`,
+      marginBottom: `${96 * offsetBottom}px`,
+      height: `${96 * height}px`,
       backgroundColor: colorFromString(content.name),
     }}
   >
@@ -15,7 +20,7 @@ const Lecture = ({ content }) => (
       {content.location}
     </div>
     <div className="lecture-border" />
-  </div>
-);
+  </div>)
+};
 
 export default Lecture;

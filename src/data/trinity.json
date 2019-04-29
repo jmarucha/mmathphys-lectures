@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Collisional Plasma Physics",
+    "lecturer": "F. Parra-Diaz",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 16.5,
+        "hourEnd": 17.5,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Conformal Field Theory",
+    "lecturer": "F. Alday",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Mathematical Institute, L4"
+      }
+    ]
+  },
+  {
+    "name": "Disc Accretion in Astrophysics",
+    "lecturer": "P. Podsiadlowski",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "QFT in CS",
+    "lecturer": "P. Candelas, L. Mason",
+    "lectures": [
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L4"
+      },
+      {
+        "dayOfWeek": 5,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Mathematical Institute, L4"
+      }
+    ]
+  },
+  {
+    "name": "Quantum Matter",
+    "lecturer": "S. Simon",
+    "lectures": [
+      {
+        "dayOfWeek": 1,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 9,
+        "hourEnd": 11,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "String Theory II",
+    "lecturer": "S. Schafer-Nameki",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 15,
+        "hourEnd": 17,
+        "location": "Mathematical Institute, L3"
+      },
+      {
+        "dayOfWeek": 2,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 15,
+        "hourEnd": 17,
+        "location": "Mathematical Institute, L3"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 3,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 2,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L6"
+      },
+      {
+        "dayOfWeek": 43,
+        "weekStart": 4,
+        "weekEnd": 4,
+        "hourStart": 14,
+        "hourEnd": 16,
+        "location": "Mathematical Institute, L6"
+      }
+    ]
+  },
+  {
+    "name": "BDSM I",
+    "lecturer": "J. March-Russell",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 1,
+        "weekEnd": 4,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "BDSM II",
+    "lecturer": "J. March-Russell",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 5,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      },
+      {
+        "dayOfWeek": 4,
+        "weekStart": 5,
+        "weekEnd": 8,
+        "hourStart": 11,
+        "hourEnd": 13,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  },
+  {
+    "name": "Topics in Quantum CMP",
+    "lecturer": "John Chalker",
+    "lectures": [
+      {
+        "dayOfWeek": 2,
+        "weekStart": 5,
+        "weekEnd": 8,
+        "hourStart": 14,
+        "hourEnd": 15,
+        "location": "Dept of Physics, Fisher Room"
+      }
+    ]
+  }
+]

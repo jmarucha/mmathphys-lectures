@@ -59,6 +59,10 @@ th,.label {
   height: 96px;
 }
 
+td {
+    overflow: visible
+}
+
 .lunch {
   height: 64px;
   padding: 16px;
@@ -95,6 +99,7 @@ th,.label {
   left: 2px;
   right: 2px;
   border: 1px solid white;
+  pointer-events: none;
 }
 
 nav {
